@@ -1,4 +1,3 @@
-```markdown
 # Beauty Catalyst Engine 💄
 **High-Performance Beauty Catalog & Headless CMS Lead Generation System.**
 
@@ -35,49 +34,3 @@ graph LR
   B -->|Dynamic Mapping| C[Frontend Interface]
   C -->|Lead Capture| D{Lead Pipeline}
   D -->|SMTP/API| E[Client Inbox]
-```
-
-### 1. Headless Data Orchestration
-By leveraging the Google Sheets API as a backend, the engine eliminates the need for traditional database maintenance. Custom logic handles data sanitization and real-time rehydration, ensuring inventory changes are reflected instantly without requiring a site redeploy.
-
-### 2. Conversion-Focused Lead Pipeline
-Engineered with a "Leads-First" philosophy. The contact and inquiry modules are optimized for mobile users, featuring instant validation and low-latency submission to ensure zero lead leakage for the business.
-
-### 3. Advanced SEO Strategy
-- **JSON-LD Schema Markup:** Injected dynamically to help Google understand product catalogs for Rich Snippets.
-- **Semantic HTML5:** Built using industry-standard tagging for maximum screen-reader compatibility and crawlability.
-- **Edge Deployment:** Hosted on Netlify’s Global Edge Network to minimize Time to First Byte (TTFB).
-
----
-
-## 🛠 Engineering Stack
-- **Frontend Core:** ES6+ JavaScript, CSS3 (Modern Grid/Flexbox Variables).
-- **Backend Bridge:** Google Sheets REST API integration.
-- **Performance:** Native Image Lazy-Loading & Gzip/Brotli Compression.
-- **Deployment:** Netlify CI/CD Pipeline with Edge delivery.
-
----
-
-## 📊 Key Performance Indicators (KPIs)
-| Metric | Score | Status |
-| :--- | :--- | :--- |
-| **Performance** | 98+ | ✅ Optimized |
-| **Accessibility** | 100 | ✅ Verified |
-| **Best Practices** | 100 | ✅ Verified |
-| **SEO** | 100 | ✅ Optimized |
-
----
-
-## 📜 License & IP
-**Proprietary Software.**  
-Copyright © 2024 Dynamic Tech World. All rights reserved. Source code is kept private for Intellectual Property protection and security purposes.
-
----
-
-## ☕ Support the Lab
-If this architecture inspired your next project, consider supporting our work:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dynamictechworld)
-
----
-**Developed by [Dynamic Tech World](https://github.com/Dynamic-Tech-World)**
